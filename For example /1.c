@@ -1,6 +1,9 @@
 #include <stdio.h>
 int main()
 {
-printf("hello world");
+    int a = 1;
+    float b = 8.8;
+    
+printf(" right tha value of a is %d", a);
     return 0;
 }
