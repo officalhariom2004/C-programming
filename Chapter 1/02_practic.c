@@ -1,3 +1,5 @@
+// calculate tha area of rectangle 
+//using input suppling by tha user
 #include <stdio.h>
 int main()
 {
