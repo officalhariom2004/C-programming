@@ -7,7 +7,7 @@ for (int i = 0; i <5; i++)
 {
     sum[i]=A[i]+B[i];
 }
-for (int i = 0; i <5; i++)
+for (int i = 0; i <5; i++) 
 {
     printf("%d ",sum[i]);
 }
